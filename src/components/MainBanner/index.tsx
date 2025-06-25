@@ -121,7 +121,7 @@ export default function MainBanner() {
           </svg>
         </button>
 
-        {/* Botão Avançar */}
+        {/* Botão Avançarr */}
         <button
           onClick={handleNext}
           className={clsx(
